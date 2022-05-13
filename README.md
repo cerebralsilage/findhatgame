@@ -1,14 +1,20 @@
 # Find Your Hat
 
 ## How to Play
- Copy the js code and input into your local js editor, then save.  
+ Copy the js code and input into your local js editor, then save. 
+
  Open your terminal **(must have node installed)** and go to the directory you saved the file in.
+
  Type node findhatgame.js or node (whatever you saved file name as .js) into your terminal and the game will begin. 
 
-**u** is up, 
-**d** is down,
-**l** is left,
-**r** is right.
+"**u**" is up, 
+
+"**d**" is down,
+
+"**l**" is left,
+
+"**r**" is right.
+
 Hit enter after your input.
 
 The goal is to get to your hat **^**.  
